@@ -7,4 +7,4 @@
 | c                | go           |
 | java             | kotlin       |
 
-<img align="right" src="https://komarev.com/ghpvc/?username=fudrobloxhacker&color=ff69b4">
+src="https://komarev.com/ghpvc/?username=fudrobloxhacker&color=ff69b4">
